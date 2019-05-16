@@ -88,6 +88,7 @@
             }
 
             IsRunning = true;
+            IsEnabled = false;
         }
         #endregion
     }
